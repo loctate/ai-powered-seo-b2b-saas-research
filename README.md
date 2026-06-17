@@ -47,3 +47,38 @@ Research materials will be collected using:
 - Research structure created
 - Expert selection in progress
 - Content collection pending
+
+## Collection Methods
+
+Research materials will be collected using:
+
+* Public LinkedIn posts
+* YouTube transcripts
+* Articles and newsletters
+* Podcast episodes and webinars
+* Python scripts and APIs
+* Manual validation and annotation
+
+Where automated collection is not technically or legally practical, materials will be collected manually from publicly accessible sources.
+
+## Research Ethics
+
+This repository is intended for research and educational purposes.
+
+* All original creators are credited.
+* Source URLs and publication dates are preserved.
+* Full copyrighted articles are not reproduced.
+* LinkedIn content is collected manually from publicly accessible posts.
+* YouTube transcripts are used only where transcripts are publicly available.
+* Research notes include summaries and annotations rather than presenting third-party work as original content.
+
+## Current Status
+
+* [x] Repository initialized
+* [x] Research structure created
+* [ ] Ten practitioners selected and validated
+* [ ] LinkedIn materials collected
+* [ ] YouTube transcript script completed
+* [ ] YouTube transcripts collected
+* [ ] Additional materials collected
+* [ ] Final documentation completed
