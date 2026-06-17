@@ -71,11 +71,33 @@ This repository is intended for research and educational purposes.
 * [x] Research structure created
 * [x] Ten practitioners selected and documented
 * [x] YouTube transcript collection script completed
-* [x] First YouTube transcript collected
-* [ ] Additional YouTube transcripts collected
-* [ ] LinkedIn materials collected
-* [ ] Additional articles and podcast materials collected
+* [x] Three YouTube transcripts collected and analyzed
+* [x] Nine LinkedIn posts from three practitioners documented
+* [x] Seven additional articles, newsletters, and podcast sources documented
+* [ ] Research materials for the remaining four practitioners collected
+* [ ] Repository links and metadata audited
 * [ ] Final research documentation completed
+
+## Current Research Progress
+
+The repository currently includes structured research from six of the ten selected practitioners:
+
+* Kevin Indig
+* Ryan Law
+* Aleyda Solis
+* Ross Simmonds
+* Ross Hudgens
+* Eli Schwartz
+
+The collected materials currently include:
+
+* Three publicly available YouTube transcripts with human-written research notes
+* Nine LinkedIn post summaries and annotations
+* Seven additional articles, newsletters, and podcast sources
+* A reusable Python script for collecting public YouTube transcripts
+
+The next phase will add research materials from Bernard Huang, Mike King, Alex Birkett, and Jimmy Daly before the final repository audit and documentation update.
+
 
 ## Current Research Progress
 
