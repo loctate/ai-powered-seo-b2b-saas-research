@@ -29,3 +29,21 @@ research/
 
 scripts/
 └── fetch_youtube_transcript.py
+
+## Collection Methods
+
+Research materials will be collected using:
+
+- Public LinkedIn posts
+- YouTube transcripts
+- Articles and newsletters
+- Podcast episodes
+- Python scripts and APIs
+- Manual validation and annotation
+
+## Current Status
+
+- Repository initialized
+- Research structure created
+- Expert selection in progress
+- Content collection pending
