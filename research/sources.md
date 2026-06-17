@@ -474,3 +474,19 @@ The ten selected practitioners represent complementary perspectives across:
 * Measurement, attribution, and business outcomes
 
 The next research phase will collect recent materials from these practitioners and organize them into LinkedIn posts, YouTube or podcast transcripts, and additional research notes.
+
+## Collection Status
+
+Research materials have now been collected from all ten selected
+practitioners.
+
+The repository includes:
+
+- Three publicly available YouTube transcripts with human-written analysis
+- Nine LinkedIn post summaries from three practitioners
+- Nineteen additional articles, newsletters, podcasts, webinars, and guides
+- Source URLs, publication dates, annotations, and B2B SaaS relevance notes
+- A reusable Python script for collecting public YouTube transcripts
+
+The research collection phase is complete. The remaining work is limited
+to final link validation, metadata review, and repository presentation.
