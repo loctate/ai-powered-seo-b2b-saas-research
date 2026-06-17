@@ -232,14 +232,245 @@ Mike King combines technical SEO, content strategy, data, and information retrie
 
 ---
 
-## Remaining Expert Selection
+---
 
-Five additional practitioners will be added in the next research update.
+## 6. Ross Simmonds
 
-Current candidates include:
+* **Role:** Founder and CEO of Foundation Marketing
+* **Primary expertise:** B2B SaaS content marketing, content distribution, generative engine optimization, AI visibility, and organic growth
+* **LinkedIn:** https://www.linkedin.com/in/rosssimmonds
+* **Personal website:** https://rosssimmonds.com/
+* **Foundation:** https://foundationinc.co/
 
-* Eli Schwartz
-* Ross Hudgens
-* Ross Simmonds
-* Alex Birkett
-* Jimmy Daly
+### Recent Relevant Content
+
+1. **Google's Preferred Sources Are Officially Live: The Marketing Impact**
+
+   * Last updated: May 5, 2026
+   * URL: https://foundationinc.co/lab/googles-preferred-sources
+   * Format: Article
+   * Topic: Search personalization, trusted sources, content distribution, and visibility across AI-driven discovery channels
+
+2. **How AI Search Is Rewiring B2B Software Buying**
+
+   * Last updated: April 20, 2026
+   * URL: https://foundationinc.co/lab/g2-answer-economy-report/
+   * Format: Research commentary
+   * Topic: How AI platforms influence B2B software research, shortlisting, and purchasing decisions
+
+3. **What's Generative Engine Optimization (GEO) and How To Do It?**
+
+   * Last updated: May 8, 2026
+   * URL: https://foundationinc.co/lab/generative-engine-optimization
+   * Format: Long-form guide
+   * Topic: AI visibility, citations, brand mentions, and generative search optimization
+
+### Why Selected
+
+Ross Simmonds works directly with B2B SaaS and technology companies through Foundation. His research combines content creation, distribution, SEO, community signals, and AI search visibility. His work is especially useful because it connects content production with how content is discovered and cited across multiple platforms.
+
+### Planned Collection
+
+* Recent public LinkedIn posts
+* Foundation articles and research
+* One podcast or video transcript
+* Content distribution and AI visibility frameworks
+* Practical takeaways for B2B SaaS teams
+
+---
+
+## 7. Ross Hudgens
+
+* **Role:** Founder and CEO of Siege Media; host of the Content & Conversation podcast
+* **Primary expertise:** SEO, GEO, content strategy, digital PR, AI search visibility, and organic growth
+* **LinkedIn:** https://www.linkedin.com/in/rosshudgens
+* **Siege Media profile:** https://www.siegemedia.com/team/ross-hudgens
+* **Website:** https://www.siegemedia.com/
+
+### Recent Relevant Content
+
+1. **What Your CMO Needs to Know About AI Search with Tom Critchlow**
+
+   * Published: June 15, 2026
+   * URL: https://www.siegemedia.com/conversation/what-your-cmo-needs-to-know-about-ai-search-w-tom-critchlow
+   * Format: Podcast and video interview
+   * Topic: GEO strategy, AI search adoption, organizational priorities, and executive decision-making
+
+2. **Eli Schwartz on Google's GEO Advice and SEO Careers Today**
+
+   * Published: May 31, 2026
+   * URL: https://www.siegemedia.com/conversation/eli-schwartz-on-googles-geo-advice-and-seo-careers-today
+   * Format: Podcast and video interview
+   * Topic: Product-led SEO, technical SEO, AI search, and the changing responsibilities of SEO teams
+
+3. **Homepage Traffic Is Up 10.7% from AI Overviews and LLMs**
+
+   * Published: May 19, 2025
+   * URL: https://www.siegemedia.com/strategy/ai-homepage-traffic-increase
+   * Format: Data study
+   * Topic: The impact of AI Overviews and LLM referrals on website and homepage traffic
+
+### Why Selected
+
+Ross Hudgens leads an established organic growth agency serving SaaS, technology, and other digital businesses. His work combines original data, client experience, content strategy, SEO, digital PR, and emerging AI-search practices.
+
+### Planned Collection
+
+* Content & Conversation video transcripts
+* Recent public LinkedIn posts
+* Siege Media research studies
+* AI-search measurement frameworks
+* Insights on GEO teams, digital PR, and brand visibility
+
+---
+
+## 8. Eli Schwartz
+
+* **Role:** Author of Product-Led SEO and SEO/AEO consultant
+* **Primary expertise:** Product-led SEO, enterprise SEO, AEO, organic growth, and search strategy
+* **LinkedIn:** https://www.linkedin.com/in/schwartze
+* **Newsletter:** https://www.productledseo.com/
+* **Website:** https://www.elischwartz.co/
+
+### Recent Relevant Content
+
+1. **Google I/O 2026: What You Need to Know for SEO/AEO**
+
+   * Published: May 20, 2026
+   * URL: https://www.productledseo.com/p/google-io-2026-what-you-need-to-know
+   * Format: Newsletter
+   * Topic: Google AI Mode, changing search behavior, organic clicks, and implications for SEO teams
+
+2. **AEO Is Not SEO 2.0**
+
+   * Published: April 9, 2026
+   * URL: https://www.productledseo.com/p/aeo-is-not-seo-20
+   * Format: Newsletter
+   * Topic: Differences between traditional rankings and visibility within AI-generated answers
+
+3. **SEO Is a Product, AEO Is Brand**
+
+   * Published: May 14, 2026
+   * URL: https://www.productledseo.com/p/seo-is-a-product-aeo-is-brand
+   * Format: Newsletter
+   * Topic: Organizational ownership, brand reputation, product strategy, and AI visibility
+
+### Why Selected
+
+Eli Schwartz has led enterprise SEO programs and advises major technology companies. His product-led approach is useful for preventing AI-powered content production from becoming a volume-only exercise disconnected from products, customers, and business outcomes.
+
+### Planned Collection
+
+* Product-Led SEO newsletter posts
+* Recent public LinkedIn posts
+* One interview or webinar transcript
+* Product-led SEO and AEO frameworks
+* Insights on measurement, prioritization, and business outcomes
+
+---
+
+## 9. Alex Birkett
+
+* **Role:** Co-founder of Omniscient Digital
+* **Primary expertise:** B2B organic growth, SEO, AI search, content strategy, experimentation, and digital PR
+* **LinkedIn:** https://www.linkedin.com/in/iamalexbirkett/
+* **Author page:** https://beomniscient.com/blog/author/alexbirkett/
+* **Omniscient Digital:** https://beomniscient.com/
+
+### Recent Relevant Content
+
+1. **AI Search FAQs**
+
+   * Published: April 16, 2026
+   * URL: https://beomniscient.com/blog/ai-search-faqs/
+   * Format: Article
+   * Topic: Common questions, measurement challenges, attribution, and strategy for AI search
+
+2. **The GEO Gold Rush Problem**
+
+   * Published: April 8, 2026
+   * URL: https://beomniscient.com/blog/the-geo-gold-rush-problem/
+   * Format: Podcast
+   * Topic: Spam tactics, weak attribution, AI-search experimentation, brand sentiment, and revenue alignment
+
+3. **Where the Puck Is Going in AI Search**
+
+   * Published: April 3, 2026
+   * URL: https://beomniscient.com/blog/where-the-puck-is-going-in-ai-search/
+   * Format: Article
+   * Topic: AI-search experiments, off-page signals, Reddit, brand visibility, and sustainable organic strategy
+
+### Why Selected
+
+Alex Birkett works directly on organic growth programs for B2B software companies. His work is valuable because it questions unsupported AI-search claims, emphasizes experimentation, and connects SEO and GEO activities with revenue, customer behavior, digital PR, and brand strategy.
+
+### Planned Collection
+
+* Omniscient Digital Field Notes
+* Public LinkedIn posts
+* One Long Game podcast transcript
+* AI-search experiments and measurement lessons
+* B2B organic-growth frameworks
+
+---
+
+## 10. Jimmy Daly
+
+* **Role:** Content marketing practitioner; co-founder and former CEO of Superpath
+* **Primary expertise:** SaaS content marketing, content operations, editorial workflows, AI-assisted writing, and content-team development
+* **LinkedIn:** https://www.linkedin.com/in/jimmydaly
+* **Superpath:** https://www.superpath.co/
+* **Superpath blog:** https://www.superpath.co/blog
+
+### Recent Relevant Content
+
+1. **How to Use Claude Skills to Pressure Test Your Writing with Synthetic Feedback**
+
+   * Published: February 26, 2026
+   * URL: https://www.superpath.co/blog/synthetic-feedback
+   * Format: Practical guide
+   * Topic: AI personas, synthetic feedback, editorial review, and maintaining human judgment
+
+2. **How to Have Influence Without Traffic or Readers**
+
+   * Published: February 3, 2026
+   * URL: https://www.superpath.co/blog/how-to-have-influence-without-traffic-or-readers
+   * Format: Article
+   * Topic: SaaS content, zero-click discovery, LLM influence, thought leadership, and brand perception
+
+3. **The 8th Skill: How Content Marketers Should Approach AI in 2026**
+
+   * Published: December 8, 2025
+   * URL: https://www.superpath.co/blog/ai-in-2026
+   * Format: Article
+   * Topic: Workflow design, AI prompting, tool mastery, customer research, and content-team skills
+
+### Why Selected
+
+Jimmy Daly has extensive experience studying and supporting SaaS content teams. His work provides an important operational and editorial perspective on AI-powered production, including how AI can support research and feedback without replacing human judgment, original thinking, or strong writing.
+
+### Planned Collection
+
+* Recent Superpath articles
+* Public LinkedIn posts
+* Content, Briefly podcast episodes
+* AI-assisted editorial workflow examples
+* Lessons about content operations and human review
+
+---
+
+## Expert Selection Summary
+
+The ten selected practitioners represent complementary perspectives across:
+
+* B2B SaaS content strategy
+* SEO and organic growth
+* Generative and answer engine optimization
+* AI-assisted content production
+* Technical search and information retrieval
+* Content distribution and repurposing
+* Digital PR and off-page authority
+* Editorial workflows and human quality control
+* Measurement, attribution, and business outcomes
+
+The next research phase will collect recent materials from these practitioners and organize them into LinkedIn posts, YouTube or podcast transcripts, and additional research notes.
