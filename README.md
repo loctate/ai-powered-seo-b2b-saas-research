@@ -51,6 +51,7 @@ The repository includes a Python script that:
 * Extracts transcript metadata
 * Groups transcript segments into readable sections
 * Saves the results as structured Markdown files
+* Generates placeholders for human analysis
 
 The current implementation uses the `youtube-transcript-api` Python package.
 
@@ -78,15 +79,16 @@ This repository is intended for research and educational purposes.
 * [x] Research materials collected from all ten practitioners
 * [x] Repository documentation updated
 * [x] Final link and metadata audit completed
+* [x] Final repository cleanup and consistency audit completed
 
 ## Research Inventory
 
 This repository currently contains:
 
-* **10 selected practitioners**
-* **3 public YouTube transcripts** with structured human-written analysis
-* **9 LinkedIn post summaries** from three practitioners
-* **19 additional articles, newsletters, podcasts, webinars, and research materials**
+* **10 selected practitioners documented**
+* **3 public YouTube transcript files** with structured human-written analysis
+* **3 LinkedIn research files** covering 9 post summaries from three practitioners
+* **7 additional research files** covering 19 articles, newsletters, podcasts, webinars, and research materials
 * **1 reusable Python transcript collection script**
 * Source URLs, publication dates, annotations, and B2B SaaS relevance notes
 
@@ -218,19 +220,6 @@ Potential AI-search indicators include:
 * Revenue contribution
 
 No single visibility score should be treated as complete proof of business impact.
-
-## Technical Implementation
-
-The included Python script:
-
-* Accepts a YouTube URL or video ID
-* Retrieves publicly available transcript data
-* Extracts transcript metadata
-* Groups subtitle segments into readable sections
-* Generates structured Markdown output
-* Creates placeholders for human analysis
-
-The script was tested locally because cloud-hosted IP addresses may be restricted by YouTube.
 
 ## Research Limitations
 

@@ -461,24 +461,17 @@ Research materials have been collected from all ten selected practitioners.
 
 The repository currently includes:
 
-* **10 selected practitioners**
-* **3 publicly available YouTube transcripts**
+* **10 selected practitioners documented**
+* **3 publicly available YouTube transcript files**
 * **Human-written analysis for all three transcripts**
-* **9 LinkedIn post summaries from three practitioners**
-* **19 additional articles, newsletters, podcasts, webinars, and guides**
+* **3 LinkedIn research files covering 9 post summaries from three practitioners**
+* **7 additional research files covering 19 articles, newsletters, podcasts, webinars, and guides**
 * **Source URLs and publication metadata**
 * **Annotations and B2B SaaS relevance notes**
 * **1 reusable Python script for collecting public YouTube transcripts**
 
 The research collection phase is complete.
-
-The remaining project work is limited to:
-
-* Final link validation
-* Metadata consistency review
-* Removal of obsolete placeholder files
-* Final README status update
-* Repository presentation review
+Final repository cleanup and consistency audit are complete.
 
 ---
 
