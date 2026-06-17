@@ -1,23 +1,35 @@
 # Research Sources
 
-This file contains the practitioners selected for this research project, together with their profiles, recent content, source links, publication dates, and reasons for inclusion.
+This document contains the ten practitioners selected for the research project, together with their profiles, source links, publication dates, research annotations, and collected materials.
 
 ## Research Topic
 
 **AI-Powered SEO Content Production for B2B SaaS**
 
-The research focuses on how B2B SaaS companies can use artificial intelligence to support SEO research, content production, optimization, distribution, measurement, and visibility across traditional and AI-powered search platforms.
+This project examines how B2B SaaS companies can use artificial intelligence to support:
+
+* Customer and topic research
+* SEO content planning
+* Content briefing and outlining
+* Drafting and editing
+* Product-led content integration
+* Technical and passage-level optimization
+* Content distribution and repurposing
+* AI-search visibility
+* Measurement and attribution
+* Human quality control
 
 ## Expert Selection Criteria
 
-Practitioners are selected based on:
+Practitioners were selected based on:
 
-* Direct experience in SEO, B2B SaaS, organic growth, or content operations
-* Evidence of practical campaigns, tools, experiments, or case studies
+* Direct experience in B2B SaaS SEO, organic growth, content strategy, or content operations
+* Evidence of practical campaigns, systems, experiments, or case studies
 * Recent and consistent publication of relevant materials
 * Strong relevance to AI-assisted SEO and content production
-* Actionable insights that could support a real-world playbook
-* Availability of public LinkedIn, YouTube, podcast, newsletter, or article content
+* Actionable insights that could support a practical B2B SaaS playbook
+* Availability of public LinkedIn, YouTube, podcast, webinar, newsletter, or article content
+* A perspective that complements rather than duplicates the other selected practitioners
 
 ---
 
@@ -28,299 +40,270 @@ Practitioners are selected based on:
 * **Role:** Organic Growth Advisor and author of Growth Memo
 * **Primary expertise:** Organic growth, SaaS SEO, AI search, content strategy, and search visibility
 * **LinkedIn:** https://www.linkedin.com/in/kevinindig
-* **Website:** https://www.kevin-indig.com
-* **Newsletter:** https://www.growth-memo.com
+* **Website:** https://www.kevin-indig.com/
+* **Newsletter:** https://www.growth-memo.com/
 
-### Recent Relevant Content
+### Selected Sources
 
 1. **State of AI Search Optimization 2026**
 
    * Published: January 5, 2026
+   * Format: Newsletter and research article
    * URL: https://www.growth-memo.com/p/state-of-ai-search-optimization-2026
-   * Format: Newsletter/article
-   * Topic: Retrieval, citations, trust, and visibility in AI search
+   * Topic: Retrieval, citations, trust, brand visibility, and AI-search measurement
 
 2. **Moving Beyond Old SEO Models in the Age of AI**
 
-   * URL: https://www.youtube.com/watch?v=AqAoKGftsSE
+   * Publication date: Not recorded during collection
    * Format: YouTube interview
-   * Topic: AI-first search, entity-driven SEO, and brand influence
+   * URL: https://www.youtube.com/watch?v=AqAoKGftsSE
+   * Topic: Search behavior, entities, intent, AI-search measurement, and cross-channel strategy
+
+3. **Public LinkedIn Research**
+
+   * Collection period: December 2025 to March 2026
+   * Format: Three LinkedIn post summaries
+   * Topic: AI SEO adoption, multi-platform discovery, and future search developments
 
 ### Why Selected
 
-Kevin Indig has led SEO and growth initiatives at major SaaS and technology companies. His current research combines data, organic growth strategy, AI search visibility, and practical business applications.
+Kevin Indig combines organic-growth leadership, SaaS experience, search research, and AI-search analysis. His work provides a strategic perspective on how discovery behavior, measurement, brand visibility, and organizational processes are changing.
 
-### Planned Collection
+### Materials Collected
 
-* Recent Growth Memo articles
-* Public LinkedIn posts
-* One relevant YouTube transcript
-* Key research findings and practical takeaways
+* [YouTube transcript and research notes](youtube-transcripts/kevin-indig--moving-beyond-old-seo-models-in-the-age-of-ai.md)
+* [LinkedIn post research](linkedin-posts/kevin-indig.md)
 
 ---
 
 ## 2. Bernard Huang
 
-* **Role:** Founder of Clearscope and AI business builder
-* **Primary expertise:** Content optimization, AEO, GEO, AI search, and SEO content systems
+* **Role:** Founder of Clearscope
+* **Primary expertise:** Content optimization, SEO, AEO, GEO, AI-search visibility, and content intelligence
 * **LinkedIn:** https://www.linkedin.com/in/bernardjhuang
-* **Clearscope resources:** https://www.clearscope.io/blog
-* **Webinars:** https://www.clearscope.io/webinars
+* **Clearscope Blog:** https://www.clearscope.io/blog
+* **Clearscope Webinars:** https://www.clearscope.io/webinars
 
-### Recent Relevant Content
+### Selected Sources
 
-1. **How AEO / GEO / AI SEO Actually Works**
-
-   * Published: December 11, 2025
-   * URL: https://www.clearscope.io/webinars/how-aeo-geo-actually-works
-   * Format: Webinar
-   * Topic: Improving visibility across Google, Gemini, ChatGPT, and other AI platforms
-
-2. **The 2026 SEO Playbook: How AI Is Reshaping Search**
+1. **The 2026 SEO Playbook: How AI Is Reshaping Search**
 
    * Published: November 24, 2025
-   * URL: https://www.clearscope.io/blog/2026-seo-aeo-playbook
    * Format: Article
-   * Topic: Search behavior, generative engines, content retrieval, and AI visibility
+   * URL: https://www.clearscope.io/blog/2026-seo-aeo-playbook
+   * Topic: Traditional SEO, AI-generated answers, visibility, and topic authority
 
-3. **The New Frontier of SEO: Why AI Optimization Is About Intelligence, Not Automation**
+2. **The New Frontier of SEO: Why AI Optimization Is About Intelligence, Not Automation**
 
    * Published: November 25, 2025
-   * URL: https://www.clearscope.io/blog/seo-ai-optimization-is-about-intelligence
    * Format: Article
-   * Topic: Combining human insight with AI-supported content strategy
+   * URL: https://www.clearscope.io/blog/seo-ai-optimization-is-about-intelligence
+   * Topic: Human insight, automation, original knowledge, and durable authority
+
+3. **How AEO / GEO / AI SEO Actually Works**
+
+   * Published: December 11, 2025
+   * Format: Webinar
+   * URL: https://www.clearscope.io/webinars/how-aeo-geo-actually-works
+   * Topic: Discoverability, credibility, retrieval, and AI-search visibility
 
 ### Why Selected
 
-Bernard Huang helped build one of the best-known SEO content optimization platforms. His work directly addresses how AI affects content quality, optimization, discovery, and brand visibility.
+Bernard Huang helped build a widely used SEO content-optimization platform. His work explains how content intelligence, human expertise, topic authority, and AI-search visibility can be connected within a practical content system.
 
-### Planned Collection
+### Materials Collected
 
-* Webinar notes or transcript
-* Public LinkedIn posts
-* Clearscope articles
-* Key frameworks for AI-assisted content optimization
+* [Article and webinar research](other/bernard-huang.md)
 
 ---
 
 ## 3. Ryan Law
 
 * **Role:** Director of Content Marketing at Ahrefs
-* **Primary expertise:** SaaS content marketing, AI content production, SEO research, and content operations
+* **Primary expertise:** SaaS content marketing, AI-assisted production, SEO research, and content operations
 * **LinkedIn:** https://www.linkedin.com/in/thinkingslow
-* **Author page:** https://ahrefs.com/blog/author/ryan-law/
+* **Ahrefs Author Page:** https://ahrefs.com/blog/author/ryan-law/
 
-### Recent Relevant Content
+### Selected Sources
 
 1. **My Complete AI Content Process for Ahrefs**
 
    * Published: August 5, 2025
+   * Format: Article
    * URL: https://ahrefs.com/blog/my-complete-ai-content-process-for-ahrefs/
-   * Format: Article
-   * Topic: AI-supported research, outlining, drafting, internal linking, editing, and publishing
+   * Topic: AI-assisted briefs, outlining, drafting, editing, internal linking, and publishing
 
-2. **AI Content Wasn't Good Enough. Now It Is.**
+2. **AI Writing at Scale: Ahrefs’ Step-by-Step Workflow**
 
-   * Published: 2026
-   * URL: https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/
-   * Format: Article
-   * Topic: Changes in AI content quality and implications for content teams
+   * Publication date: Not recorded during collection
+   * Format: YouTube video
+   * URL: https://www.youtube.com/watch?v=D7LBx8RFOcQ
+   * Topic: End-to-end AI content workflow with human editorial control
 
-3. **AI Content Automation System Walkthrough**
+3. **Public LinkedIn Research**
 
-   * URL: https://www.linkedin.com/posts/thinkingslow_heres-a-full-9-minute-walkthrough-of-my-activity-7464941601384128512-4-xC
-   * Format: LinkedIn video post
-   * Topic: An end-to-end AI content workflow used by a major SEO software company
+   * Collection period: March to May 2026
+   * Format: Three LinkedIn post summaries
+   * Topic: AI content quality, workflow automation, and AI-search benchmark research
 
 ### Why Selected
 
-Ryan Law actively manages content for a major B2B SaaS SEO platform. His work provides direct evidence of how AI can be integrated into research, writing, editing, linking, and content maintenance without removing human oversight.
+Ryan Law manages content for a major B2B SaaS SEO platform. His work provides direct operational evidence of how AI can support content research, writing, editing, product integration, internal linking, and maintenance while preserving human review.
 
-### Planned Collection
+### Materials Collected
 
-* AI content workflow article
-* Recent public LinkedIn posts
-* Ahrefs research on AI-generated content
-* Workflow stages and operational lessons
+* [YouTube transcript and research notes](youtube-transcripts/ryan-law--ai-writing-at-scale-ahrefs-step-by-step-workflow.md)
+* [LinkedIn post research](linkedin-posts/ryan-law.md)
 
 ---
 
 ## 4. Aleyda Solis
 
 * **Role:** International SEO and AI Search Optimization Consultant; founder of Orainti and SEOFOMO
-* **Primary expertise:** AI search optimization, international SEO, SaaS SEO, technical SEO, and measurement
+* **Primary expertise:** AI-search optimization, international SEO, SaaS SEO, technical SEO, and measurement
 * **LinkedIn:** https://www.linkedin.com/in/aleyda
 * **Website:** https://www.aleydasolis.com/en/
-* **Video series:** https://www.aleydasolis.com/en/crawling-mondays-videos/
+* **Crawling Mondays:** https://www.aleydasolis.com/en/crawling-mondays-videos/
 
-### Recent Relevant Content
+### Selected Sources
 
-1. **The AI Search Optimization Checklist**
+1. **The AI Search Optimization Roadmap**
+
+   * Publication date: Not recorded during collection
+   * Format: YouTube presentation
+   * URL: https://www.youtube.com/watch?v=BjyF_4UhoOM
+   * Topic: Technical accessibility, content retrieval, citations, authority, and measurement
+
+2. **The AI Search Optimization Checklist**
 
    * Updated: May 27, 2026
-   * URL: https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/
    * Format: Guide and checklist
-   * Topic: AI visibility measurement, owned content, third-party sources, citations, and recommendations
+   * URL: https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/
+   * Topic: Prompt research, visibility, source analysis, optimization, and reporting
 
-2. **How to Build a Representative AI Search Prompt Library**
+3. **Public LinkedIn Research**
 
-   * Published: June 8, 2026
-   * URL: https://www.aleydasolis.com/en/
-   * Format: Article
-   * Topic: Building prompt sets for meaningful AI search visibility measurement
-
-3. **Key Traditional vs AI Search Differences**
-
-   * Published: July 26, 2025
-   * URL: https://www.aleydasolis.com/en/ai-search/key-traditional-search-ai-comparison/
-   * Format: Visual guide
-   * Topic: Differences between traditional search rankings and AI-generated discovery
+   * Collection period: January to May 2026
+   * Format: Three LinkedIn post summaries
+   * Topic: AI-search developments, technical SEO, and implementation frameworks
 
 ### Why Selected
 
-Aleyda Solis produces detailed, practical, and regularly updated resources. Her work connects strategy with implementation, measurement, technical SEO, and AI search visibility.
+Aleyda Solis produces practical and frequently updated resources that connect AI-search strategy with technical SEO, crawler accessibility, measurement, international considerations, and business prioritization.
 
-### Planned Collection
+### Materials Collected
 
-* AI Search Optimization Checklist
-* Recent public LinkedIn posts
-* Crawling Mondays video transcript
-* Measurement and implementation frameworks
+* [YouTube transcript and research notes](youtube-transcripts/aleyda-solis--the-ai-search-optimization-roadmap.md)
+* [LinkedIn post research](linkedin-posts/aleyda-solis.md)
 
 ---
 
 ## 5. Mike King
 
-* **Role:** Founder and Chief Relevance Engineer at iPullRank
-* **Primary expertise:** Technical SEO, content strategy, AI search, generative search, and Relevance Engineering
+* **Role:** Founder and CEO of iPullRank
+* **Primary expertise:** Technical SEO, Relevance Engineering, information retrieval, AI search, and content engineering
 * **LinkedIn:** https://www.linkedin.com/in/michaelkingphilly
-* **Website:** https://ipullrank.com
+* **Website:** https://ipullrank.com/
 * **AI Search Manual:** https://ipullrank.com/ai-search-manual
 
-### Recent Relevant Content
+### Selected Sources
 
-1. **Beyond RAG: Why Every AI Search Platform Is Now Agentic and What That Means for Your Content**
+1. **Google’s Guidance on AI Search Is Naive and Self-Serving**
+
+   * Published: May 18, 2026
+   * Format: Technical article
+   * URL: https://ipullrank.com/google-ai-search-guidance
+   * Topic: Multi-platform AI search, passage retrieval, and content chunking
+
+2. **Beyond RAG: Why Every AI Search Platform Is Now Agentic**
 
    * Published: May 20, 2026
-   * URL: https://ipullrank.com/posts
-   * Format: Article
-   * Topic: Agentic search platforms and implications for content strategy
-
-2. **How AI Mode Works and How SEO Can Prepare for the Future of Search**
-
-   * Published: May 27, 2025
-   * URL: https://ipullrank.com/how-ai-mode-works
    * Format: Technical article
-   * Topic: AI retrieval, citations, passage selection, and machine-mediated relevance
+   * URL: https://ipullrank.com/agentic-rag
+   * Topic: Agentic retrieval, hidden subqueries, and multi-step answer generation
 
-3. **The AI Search Manual**
+3. **How to Win Visibility in AI Search: The AI Search Manual Walkthrough**
 
-   * URL: https://ipullrank.com/ai-search-manual
-   * Format: Long-form guide
-   * Topic: Generative Engine Optimization and Relevance Engineering
+   * Publication date: Not displayed on the source page
+   * Format: Webinar
+   * URL: https://ipullrank.com/resources/webinars/ai-search-manual-webinar
+   * Topic: Embeddings, query fan-out, extractable content, and visibility measurement
 
 ### Why Selected
 
-Mike King combines technical SEO, content strategy, data, and information retrieval. His work provides a deeper technical perspective on how content is retrieved, interpreted, selected, and cited by AI search systems.
+Mike King provides the project’s strongest technical perspective. His work explains how information retrieval, semantic similarity, passage selection, agentic search, and structured content affect whether information is retrieved and cited.
 
-### Planned Collection
+### Materials Collected
 
-* AI Search Manual notes
-* Recent public LinkedIn posts
-* One video or webinar transcript
-* Technical concepts relevant to AI content visibility
-
----
+* [Technical AI-search research](other/mike-king.md)
 
 ---
 
 ## 6. Ross Simmonds
 
 * **Role:** Founder and CEO of Foundation Marketing
-* **Primary expertise:** B2B SaaS content marketing, content distribution, generative engine optimization, AI visibility, and organic growth
+* **Primary expertise:** B2B SaaS content marketing, content distribution, GEO, AI visibility, and organic growth
 * **LinkedIn:** https://www.linkedin.com/in/rosssimmonds
-* **Personal website:** https://rosssimmonds.com/
+* **Personal Website:** https://rosssimmonds.com/
 * **Foundation:** https://foundationinc.co/
 
-### Recent Relevant Content
+### Selected Sources
 
-1. **Google's Preferred Sources Are Officially Live: The Marketing Impact**
+1. **How AI Search Is Rewiring B2B Software Buying**
 
-   * Last updated: May 5, 2026
-   * URL: https://foundationinc.co/lab/googles-preferred-sources
-   * Format: Article
-   * Topic: Search personalization, trusted sources, content distribution, and visibility across AI-driven discovery channels
-
-2. **How AI Search Is Rewiring B2B Software Buying**
-
-   * Last updated: April 20, 2026
-   * URL: https://foundationinc.co/lab/g2-answer-economy-report/
+   * Published: April 20, 2026
    * Format: Research commentary
-   * Topic: How AI platforms influence B2B software research, shortlisting, and purchasing decisions
+   * URL: https://foundationinc.co/lab/g2-answer-economy-report/
+   * Topic: AI-assisted software research, vendor shortlisting, and buyer behavior
 
-3. **What's Generative Engine Optimization (GEO) and How To Do It?**
+2. **Google’s Preferred Sources Are Officially Live: The Marketing Impact**
 
-   * Last updated: May 8, 2026
-   * URL: https://foundationinc.co/lab/generative-engine-optimization
-   * Format: Long-form guide
-   * Topic: AI visibility, citations, brand mentions, and generative search optimization
+   * Published: May 5, 2026
+   * Format: Article
+   * URL: https://foundationinc.co/lab/googles-preferred-sources
+   * Topic: Search personalization, trusted sources, distribution, and multi-surface visibility
 
 ### Why Selected
 
-Ross Simmonds works directly with B2B SaaS and technology companies through Foundation. His research combines content creation, distribution, SEO, community signals, and AI search visibility. His work is especially useful because it connects content production with how content is discovered and cited across multiple platforms.
+Ross Simmonds works directly with B2B SaaS and technology companies. His work connects content creation with distribution, trusted third-party references, software-buying behavior, and visibility across multiple discovery channels.
 
-### Planned Collection
+### Materials Collected
 
-* Recent public LinkedIn posts
-* Foundation articles and research
-* One podcast or video transcript
-* Content distribution and AI visibility frameworks
-* Practical takeaways for B2B SaaS teams
+* [Article and distribution research](other/ross-simmonds.md)
 
 ---
 
 ## 7. Ross Hudgens
 
-* **Role:** Founder and CEO of Siege Media; host of the Content & Conversation podcast
-* **Primary expertise:** SEO, GEO, content strategy, digital PR, AI search visibility, and organic growth
+* **Role:** Founder and CEO of Siege Media; host of Content & Conversation
+* **Primary expertise:** SEO, GEO, content strategy, digital PR, AI-search visibility, and organic growth
 * **LinkedIn:** https://www.linkedin.com/in/rosshudgens
-* **Siege Media profile:** https://www.siegemedia.com/team/ross-hudgens
+* **Profile:** https://www.siegemedia.com/team/ross-hudgens
 * **Website:** https://www.siegemedia.com/
 
-### Recent Relevant Content
+### Selected Sources
 
-1. **What Your CMO Needs to Know About AI Search with Tom Critchlow**
+1. **How GEO Actually Works with Bernard Huang**
+
+   * Published: January 12, 2026
+   * Format: Podcast and video discussion
+   * URL: https://www.siegemedia.com/conversation/how-geo-actually-works-w-bernard-huang
+   * Topic: SEO, GEO, citations, mentions, and AI-search measurement
+
+2. **What Your CMO Needs to Know About AI Search**
 
    * Published: June 15, 2026
+   * Format: Podcast and video discussion
    * URL: https://www.siegemedia.com/conversation/what-your-cmo-needs-to-know-about-ai-search-w-tom-critchlow
-   * Format: Podcast and video interview
-   * Topic: GEO strategy, AI search adoption, organizational priorities, and executive decision-making
-
-2. **Eli Schwartz on Google's GEO Advice and SEO Careers Today**
-
-   * Published: May 31, 2026
-   * URL: https://www.siegemedia.com/conversation/eli-schwartz-on-googles-geo-advice-and-seo-careers-today
-   * Format: Podcast and video interview
-   * Topic: Product-led SEO, technical SEO, AI search, and the changing responsibilities of SEO teams
-
-3. **Homepage Traffic Is Up 10.7% from AI Overviews and LLMs**
-
-   * Published: May 19, 2025
-   * URL: https://www.siegemedia.com/strategy/ai-homepage-traffic-increase
-   * Format: Data study
-   * Topic: The impact of AI Overviews and LLM referrals on website and homepage traffic
+   * Topic: Executive strategy, brand visibility, attribution, and organizational alignment
 
 ### Why Selected
 
-Ross Hudgens leads an established organic growth agency serving SaaS, technology, and other digital businesses. His work combines original data, client experience, content strategy, SEO, digital PR, and emerging AI-search practices.
+Ross Hudgens contributes agency, research, digital PR, and executive perspectives. His work is useful for understanding how AI-search performance intersects with brand perception, mentions, citations, and realistic measurement.
 
-### Planned Collection
+### Materials Collected
 
-* Content & Conversation video transcripts
-* Recent public LinkedIn posts
-* Siege Media research studies
-* AI-search measurement frameworks
-* Insights on GEO teams, digital PR, and brand visibility
+* [Podcast and AI-search measurement research](other/ross-hudgens.md)
 
 ---
 
@@ -332,161 +315,179 @@ Ross Hudgens leads an established organic growth agency serving SaaS, technology
 * **Newsletter:** https://www.productledseo.com/
 * **Website:** https://www.elischwartz.co/
 
-### Recent Relevant Content
+### Selected Sources
 
-1. **Google I/O 2026: What You Need to Know for SEO/AEO**
+1. **Control Your AEO with Your Website**
 
-   * Published: May 20, 2026
-   * URL: https://www.productledseo.com/p/google-io-2026-what-you-need-to-know
+   * Published: March 26, 2026
    * Format: Newsletter
-   * Topic: Google AI Mode, changing search behavior, organic clicks, and implications for SEO teams
+   * URL: https://www.productledseo.com/p/websites-are-more-valuable-than-ever
+   * Topic: Owned websites as authoritative sources for answer engines
 
 2. **AEO Is Not SEO 2.0**
 
    * Published: April 9, 2026
-   * URL: https://www.productledseo.com/p/aeo-is-not-seo-20
    * Format: Newsletter
-   * Topic: Differences between traditional rankings and visibility within AI-generated answers
+   * URL: https://www.productledseo.com/p/aeo-is-not-seo-20
+   * Topic: Differences between ranked search journeys and AI-generated answers
 
 3. **SEO Is a Product, AEO Is Brand**
 
    * Published: May 14, 2026
-   * URL: https://www.productledseo.com/p/seo-is-a-product-aeo-is-brand
    * Format: Newsletter
-   * Topic: Organizational ownership, brand reputation, product strategy, and AI visibility
+   * URL: https://www.productledseo.com/p/seo-is-a-product-aeo-is-brand
+   * Topic: Organizational ownership, brand visibility, product, and engineering
 
 ### Why Selected
 
-Eli Schwartz has led enterprise SEO programs and advises major technology companies. His product-led approach is useful for preventing AI-powered content production from becoming a volume-only exercise disconnected from products, customers, and business outcomes.
+Eli Schwartz connects SEO and AEO with customer journeys, product strategy, brand perception, and organizational ownership. His perspective helps prevent the project from treating AI-search optimization as only a content-production task.
 
-### Planned Collection
+### Materials Collected
 
-* Product-Led SEO newsletter posts
-* Recent public LinkedIn posts
-* One interview or webinar transcript
-* Product-led SEO and AEO frameworks
-* Insights on measurement, prioritization, and business outcomes
+* [Newsletter and product-led SEO research](other/eli-schwartz.md)
 
 ---
 
 ## 9. Alex Birkett
 
 * **Role:** Co-founder of Omniscient Digital
-* **Primary expertise:** B2B organic growth, SEO, AI search, content strategy, experimentation, and digital PR
+* **Primary expertise:** B2B organic growth, SEO, AI search, experimentation, content strategy, and attribution
 * **LinkedIn:** https://www.linkedin.com/in/iamalexbirkett/
-* **Author page:** https://beomniscient.com/blog/author/alexbirkett/
+* **Author Page:** https://beomniscient.com/blog/author/alexbirkett/
 * **Omniscient Digital:** https://beomniscient.com/
 
-### Recent Relevant Content
+### Selected Sources
 
 1. **AI Search FAQs**
 
    * Published: April 16, 2026
-   * URL: https://beomniscient.com/blog/ai-search-faqs/
    * Format: Article
-   * Topic: Common questions, measurement challenges, attribution, and strategy for AI search
+   * URL: https://beomniscient.com/blog/ai-search-faqs/
+   * Topic: AI-search misconceptions, measurement, experimentation, and business outcomes
 
 2. **The GEO Gold Rush Problem**
 
    * Published: April 8, 2026
-   * URL: https://beomniscient.com/blog/the-geo-gold-rush-problem/
    * Format: Podcast
-   * Topic: Spam tactics, weak attribution, AI-search experimentation, brand sentiment, and revenue alignment
+   * URL: https://beomniscient.com/blog/the-geo-gold-rush-problem/
+   * Topic: Hype, weak attribution, brand sentiment, and off-page signals
 
 3. **Where the Puck Is Going in AI Search**
 
    * Published: April 3, 2026
-   * URL: https://beomniscient.com/blog/where-the-puck-is-going-in-ai-search/
    * Format: Article
-   * Topic: AI-search experiments, off-page signals, Reddit, brand visibility, and sustainable organic strategy
+   * URL: https://beomniscient.com/blog/where-the-puck-is-going-in-ai-search/
+   * Topic: Sustainable experimentation, platform incentives, and durable organic-growth assets
 
 ### Why Selected
 
-Alex Birkett works directly on organic growth programs for B2B software companies. His work is valuable because it questions unsupported AI-search claims, emphasizes experimentation, and connects SEO and GEO activities with revenue, customer behavior, digital PR, and brand strategy.
+Alex Birkett provides a critical and experimental perspective. His work emphasizes customer research, revenue alignment, careful attribution, off-page authority, brand sentiment, and the risks of chasing unsupported AI-search claims.
 
-### Planned Collection
+### Materials Collected
 
-* Omniscient Digital Field Notes
-* Public LinkedIn posts
-* One Long Game podcast transcript
-* AI-search experiments and measurement lessons
-* B2B organic-growth frameworks
+* [AI-search experimentation and measurement research](other/alex-birkett.md)
 
 ---
 
 ## 10. Jimmy Daly
 
-* **Role:** Content marketing practitioner; co-founder and former CEO of Superpath
-* **Primary expertise:** SaaS content marketing, content operations, editorial workflows, AI-assisted writing, and content-team development
+* **Role:** Co-founder and former CEO of Superpath; content marketing advisor and contributor
+* **Primary expertise:** SaaS content marketing, editorial workflows, AI-assisted writing, and content operations
 * **LinkedIn:** https://www.linkedin.com/in/jimmydaly
 * **Superpath:** https://www.superpath.co/
-* **Superpath blog:** https://www.superpath.co/blog
+* **Superpath Blog:** https://www.superpath.co/blog
 
-### Recent Relevant Content
+### Selected Sources
 
 1. **How to Use Claude Skills to Pressure Test Your Writing with Synthetic Feedback**
 
    * Published: February 26, 2026
-   * URL: https://www.superpath.co/blog/synthetic-feedback
    * Format: Practical guide
-   * Topic: AI personas, synthetic feedback, editorial review, and maintaining human judgment
+   * URL: https://www.superpath.co/blog/synthetic-feedback
+   * Topic: AI personas, audience objections, editorial review, and human judgment
 
 2. **How to Have Influence Without Traffic or Readers**
 
    * Published: February 3, 2026
+   * Format: Article
    * URL: https://www.superpath.co/blog/how-to-have-influence-without-traffic-or-readers
-   * Format: Article
-   * Topic: SaaS content, zero-click discovery, LLM influence, thought leadership, and brand perception
+   * Topic: Zero-click discovery, content influence, brand legitimacy, and AI-mediated research
 
-3. **The 8th Skill: How Content Marketers Should Approach AI in 2026**
+3. **Three Things AI Has Changed About Content Marketing That Are Not Going Back**
 
-   * Published: December 8, 2025
-   * URL: https://www.superpath.co/blog/ai-in-2026
+   * Published: March 30, 2026
    * Format: Article
-   * Topic: Workflow design, AI prompting, tool mastery, customer research, and content-team skills
+   * URL: https://www.superpath.co/blog/3-things-ai-has-changed-about-content-marketing
+   * Topic: Automation, changing marketer skills, workflow design, and human differentiation
 
 ### Why Selected
 
-Jimmy Daly has extensive experience studying and supporting SaaS content teams. His work provides an important operational and editorial perspective on AI-powered production, including how AI can support research and feedback without replacing human judgment, original thinking, or strong writing.
+Jimmy Daly adds the editorial and operational perspective. His work explains how content teams can use AI for feedback and production while maintaining human responsibility for audience understanding, judgment, positioning, and final quality.
 
-### Planned Collection
+### Materials Collected
 
-* Recent Superpath articles
-* Public LinkedIn posts
-* Content, Briefly podcast episodes
-* AI-assisted editorial workflow examples
-* Lessons about content operations and human review
+* [AI-assisted editorial and content-operations research](other/jimmy-daly.md)
 
 ---
 
-## Expert Selection Summary
+# Expert Coverage Summary
 
-The ten selected practitioners represent complementary perspectives across:
+The ten practitioners provide complementary perspectives across:
 
 * B2B SaaS content strategy
-* SEO and organic growth
-* Generative and answer engine optimization
+* Organic growth
+* Traditional SEO
 * AI-assisted content production
-* Technical search and information retrieval
-* Content distribution and repurposing
-* Digital PR and off-page authority
-* Editorial workflows and human quality control
-* Measurement, attribution, and business outcomes
+* Editorial workflows
+* Technical SEO
+* Information retrieval
+* Answer and generative engine optimization
+* Content distribution
+* Digital PR
+* Third-party authority
+* Product-led SEO
+* Brand positioning
+* Experimentation
+* Measurement and attribution
+* Human quality control
 
-The next research phase will collect recent materials from these practitioners and organize them into LinkedIn posts, YouTube or podcast transcripts, and additional research notes.
+No single practitioner provides a complete AI-powered content system. The value of the research comes from combining their different areas of expertise.
 
-## Collection Status
+---
 
-Research materials have now been collected from all ten selected
-practitioners.
+# Collection Status
 
-The repository includes:
+Research materials have been collected from all ten selected practitioners.
 
-- Three publicly available YouTube transcripts with human-written analysis
-- Nine LinkedIn post summaries from three practitioners
-- Nineteen additional articles, newsletters, podcasts, webinars, and guides
-- Source URLs, publication dates, annotations, and B2B SaaS relevance notes
-- A reusable Python script for collecting public YouTube transcripts
+The repository currently includes:
 
-The research collection phase is complete. The remaining work is limited
-to final link validation, metadata review, and repository presentation.
+* **10 selected practitioners**
+* **3 publicly available YouTube transcripts**
+* **Human-written analysis for all three transcripts**
+* **9 LinkedIn post summaries from three practitioners**
+* **19 additional articles, newsletters, podcasts, webinars, and guides**
+* **Source URLs and publication metadata**
+* **Annotations and B2B SaaS relevance notes**
+* **1 reusable Python script for collecting public YouTube transcripts**
+
+The research collection phase is complete.
+
+The remaining project work is limited to:
+
+* Final link validation
+* Metadata consistency review
+* Removal of obsolete placeholder files
+* Final README status update
+* Repository presentation review
+
+---
+
+# Research Limitations
+
+* LinkedIn posts were collected manually from publicly accessible pages.
+* Only publicly available YouTube transcripts were collected.
+* Publication dates were not guessed when they could not be confirmed during collection.
+* AI-search platforms and retrieval systems continue to change rapidly.
+* Citations, mentions, and AI referrals do not always prove direct revenue attribution.
+* The repository is a structured research snapshot rather than a permanent description of the market.
+* All summaries and annotations were written for research purposes and do not replace the original sources.
