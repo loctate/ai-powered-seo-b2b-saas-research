@@ -56,10 +56,6 @@ The source also suggests that content teams should distribute and repurpose mate
 For a future B2B SaaS playbook, the practical implication is to combine AI-assisted production with human strategy, topic and intent research, entity building, multi-channel distribution, and continuous visibility measurement.
 
 
-- **Summary:** To be added after reviewing the transcript.
-- **Key insights:** To be added after reviewing the transcript.
-- **Relevance to B2B SaaS:** To be added after reviewing the transcript.
-
 ## Transcript
 
 ### [00:00:02]
