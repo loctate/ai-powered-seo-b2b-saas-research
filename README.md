@@ -77,7 +77,7 @@ This repository is intended for research and educational purposes.
 * [x] Additional articles, newsletters, podcasts, and webinars documented
 * [x] Research materials collected from all ten practitioners
 * [x] Repository documentation updated
-* [ ] Final link and metadata audit completed
+* [x] Final link and metadata audit completed
 
 ## Research Inventory
 
