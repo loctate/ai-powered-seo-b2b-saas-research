@@ -12,6 +12,50 @@
 
 ## Research Notes
 
+### Summary
+
+The discussion examines how artificial intelligence is changing search behavior and forcing SEO practitioners to move beyond traditional mental models based mainly on keywords, ranking factors, and individual search queries.
+
+Kevin Indig explains that Google and ChatGPT currently represent different but complementary search environments. Rather than assuming that AI assistants will immediately replace traditional search, marketers should prepare for a broader search ecosystem with multiple discovery surfaces.
+
+The conversation also highlights the difficulty of measuring AI-search behavior. Prompts tend to be longer, more varied, and less standardized than traditional search queries. Because of this, topic-level signals, user intent, entities, brand recognition, and audience context may become more useful than tracking exact prompts.
+
+Another major theme is that AI-search visibility cannot be managed by SEO teams alone. Effective visibility increasingly requires collaboration across content, brand, public relations, social media, community platforms, and other distribution channels.
+
+### Key Insights
+
+1. **Traditional SEO mental models are becoming insufficient.**
+   Keywords and ranking positions remain useful, but they do not fully explain how content is selected and presented by AI-powered search systems.
+
+2. **AI search creates additional discovery surfaces.**
+   Google Search, AI Overviews, AI Mode, ChatGPT, Gemini, and other platforms may coexist rather than completely replacing one another.
+
+3. **Topics and intent may be more useful than exact prompt tracking.**
+   AI prompts are often long and highly variable, making individual prompt-volume analysis less reliable than broader topic and intent analysis.
+
+4. **Entity and brand recognition are increasingly important.**
+   Search platforms use entity relationships, branded terms, product names, and contextual signals to understand whether an organization represents a credible brand.
+
+5. **AI-search visibility requires cross-functional collaboration.**
+   SEO teams need to work more closely with brand, PR, social media, content marketing, and community teams.
+
+6. **Content distribution is becoming part of search optimization.**
+   Content should be adapted and amplified across platforms where audiences and AI systems discover information, including professional networks, communities, and third-party websites.
+
+7. **Measurement frameworks must evolve.**
+   Future AI-search analytics may rely more heavily on topic clusters, intent categories, entity visibility, citations, and audience segments.
+
+### Relevance to B2B SaaS
+
+This interview is especially relevant to the distribution, optimization, and measurement stages of an AI-powered B2B SaaS content workflow.
+
+B2B SaaS companies should not use AI only to increase content volume. They should build content around meaningful customer topics, product use cases, business intent, and recognizable company or product entities.
+
+The source also suggests that content teams should distribute and repurpose material across multiple trusted channels. Visibility in AI search may depend not only on content published on a company website, but also on how consistently the company, product, and expertise are referenced across the wider web.
+
+For a future B2B SaaS playbook, the practical implication is to combine AI-assisted production with human strategy, topic and intent research, entity building, multi-channel distribution, and continuous visibility measurement.
+
+
 - **Summary:** To be added after reviewing the transcript.
 - **Key insights:** To be added after reviewing the transcript.
 - **Relevance to B2B SaaS:** To be added after reviewing the transcript.
