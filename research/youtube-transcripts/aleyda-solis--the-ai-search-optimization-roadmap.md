@@ -12,9 +12,184 @@
 
 ## Research Notes
 
-- **Summary:** To be added after reviewing the transcript.
-- **Key insights:** To be added after reviewing the transcript.
-- **Relevance to B2B SaaS:** To be added after reviewing the transcript.
+### Summary
+
+Aleyda Solis presents a practical roadmap for expanding traditional SEO into AI search optimization. Her central argument is that AI search should not be treated as a completely separate marketing discipline. Instead, companies should extend their existing SEO processes to account for the different ways AI platforms discover, retrieve, synthesize, cite, and present information.
+
+The presentation explains that traditional search and AI search currently coexist. Large language models are creating additional discovery opportunities rather than immediately replacing Google. AI platforms also continue to depend on search indexes and external sources when they need current, factual, or verifiable information.
+
+Aleyda identifies several important differences between traditional and AI-powered search. AI users tend to submit longer, conversational, multi-turn, and task-oriented prompts. AI systems may expand one prompt into multiple related subqueries, retrieve individual passages from several sources, and combine them into a synthesized response.
+
+Because AI platforms retrieve information at the passage or chunk level, content should be clearly structured, focused, self-contained, and easy to understand without excessive surrounding context. However, she warns against chasing artificial formatting tactics. Content must still prioritize usefulness and a strong user experience.
+
+The roadmap also emphasizes technical accessibility. Websites should verify that AI crawlers are not being blocked by robots.txt, hosting providers, CDNs, or firewalls. Important content should not depend entirely on client-side JavaScript because some AI crawlers may not render it as effectively as Google.
+
+Beyond technical optimization, companies should develop strong topical authority, publish content throughout the customer journey, earn third-party mentions and citations, and measure brand visibility, sentiment, traffic, conversions, and competitive performance across AI platforms.
+
+### AI Search Optimization Roadmap
+
+1. **Research AI-search audience behavior**
+
+   * Identify which AI platforms the target audience actually uses.
+   * Study relevant prompts, topics, questions, and task-oriented searches.
+   * Compare AI referral traffic, conversions, visibility, and sentiment.
+   * Benchmark the company against relevant competitors.
+
+2. **Prioritize business-relevant topics**
+
+   * Focus on topics connected to products, services, customers, and revenue.
+   * Avoid targeting topics only because they are popular.
+   * Consider the full customer journey, including awareness, evaluation, purchase, and post-purchase support.
+
+3. **Validate crawler accessibility**
+
+   * Check robots.txt rules.
+   * Review CDN, hosting, firewall, and security configurations.
+   * Confirm that desired AI crawlers can access the website.
+   * Monitor crawler activity through logs or infrastructure reports.
+
+4. **Improve content indexability**
+
+   * Confirm that important content is visible in raw HTML.
+   * Reduce unnecessary dependence on client-side JavaScript.
+   * Test whether AI crawlers can access page content, links, and metadata.
+
+5. **Build on-brand topical authority**
+
+   * Develop comprehensive topic hubs.
+   * Publish informational, commercial, and post-purchase content.
+   * Connect educational content clearly to the company’s products and expertise.
+   * Maintain control of the brand narrative through owned content.
+
+6. **Optimize content for passage-level retrieval**
+
+   * Keep sections focused on one main concept.
+   * Use clear headings and concise explanations.
+   * Make paragraphs understandable as standalone content units.
+   * Avoid combining unrelated ideas in one section.
+
+7. **Optimize for answer synthesis**
+
+   * Start with direct and concise answers.
+   * Summarize complex ideas before expanding them.
+   * Use plain, factual, and non-promotional language.
+   * Add meaningful FAQs, structured data, summaries, lists, and natural-language explanations where useful.
+
+8. **Increase citation worthiness**
+
+   * Publish accurate and up-to-date information.
+   * Include verifiable claims, sources, data, and expert insights.
+   * Display clear authorship and organizational credibility.
+   * Add original experience, proprietary research, useful tools, or practical resources.
+
+9. **Grow third-party authority**
+
+   * Develop visibility across publications, forums, communities, social media, and industry websites.
+   * Work with PR, social media, community, and brand teams.
+   * Track both linked and unlinked brand mentions.
+   * Identify the external sources most frequently cited for important topics.
+
+10. **Monitor AI-search performance**
+
+    * Track referral traffic from AI platforms.
+    * Monitor conversions and revenue where possible.
+    * Measure citations, mentions, visibility, and brand sentiment.
+    * Compare performance against competitors.
+    * Review crawler logs, indexed content, and technical accessibility.
+    * Prioritize improvements based on potential impact, effort, and expected return.
+
+### Key Insights
+
+1. **AI search expands SEO rather than replacing it.**
+   Traditional SEO remains important because AI systems frequently use search indexes and external web sources to retrieve current information.
+
+2. **AI search behavior is more conversational and task-oriented.**
+   Users may ask complex questions or request complete deliverables rather than entering a few short keywords.
+
+3. **One prompt may generate many hidden subqueries.**
+   AI systems can fan out a prompt into multiple related searches before constructing an answer.
+
+4. **Passage-level relevance is increasingly important.**
+   A complete page does not need to match the entire prompt if one clear section directly answers a relevant subquery.
+
+5. **Technical accessibility remains foundational.**
+   Excellent content cannot be cited if AI crawlers cannot access or interpret it.
+
+6. **JavaScript dependence can create visibility gaps.**
+   Important information should be available in crawlable HTML whenever possible.
+
+7. **Informational content still supports commercial outcomes.**
+   Removing informational content may weaken topical authority and force AI platforms to rely on third-party descriptions of the company.
+
+8. **Content should support the full customer journey.**
+   Strong AI-search visibility requires awareness, evaluation, transactional, educational, and post-purchase materials.
+
+9. **Good writing practices also support AI retrieval.**
+   Clear headings, focused paragraphs, concise answers, and logical structure benefit both human readers and AI systems.
+
+10. **Mentions and citations matter alongside backlinks.**
+    Brand references on trusted third-party platforms can influence how AI systems understand and present an organization.
+
+11. **AI tools should support rather than replace writers.**
+    Human judgment remains necessary to determine whether topics, recommendations, and content structures make sense for the business.
+
+12. **Measurement should go beyond rankings.**
+    Companies should track visibility, sentiment, citations, referrals, engagement, conversions, and competitor performance.
+
+13. **AI optimization should be prioritized according to ROI.**
+    Companies should not invest heavily in every new tactic without assessing current traffic, opportunity, cost, and business impact.
+
+14. **A company should continue to own its website and brand narrative.**
+    Third-party channels are valuable, but an owned website remains the main source the company can fully control.
+
+15. **New tactics should improve user experience.**
+    Formatting elements should not be added merely because they are believed to help AI systems. They should also make the content more useful for people.
+
+### Relevance to B2B SaaS
+
+This presentation is highly relevant to B2B SaaS because software purchases often involve long research cycles, multiple stakeholders, technical questions, comparisons, integrations, security concerns, implementation requirements, and post-purchase support.
+
+A B2B SaaS company should build content covering the entire customer journey, including:
+
+* Problem awareness
+* Educational guides
+* Product use cases
+* Integration documentation
+* Comparison pages
+* Security and compliance information
+* Implementation guides
+* Customer case studies
+* Troubleshooting resources
+* Onboarding and post-purchase support
+
+Each important topic should contain clear and self-contained sections that AI systems can retrieve and cite. For example, pages should directly explain product capabilities, integrations, pricing logic, limitations, target users, implementation requirements, and measurable outcomes.
+
+Technical teams should also confirm that product documentation, landing pages, help-center content, and integration pages are accessible to relevant crawlers and are not hidden behind unnecessary client-side rendering.
+
+The roadmap also reinforces the need for cross-functional collaboration. SEO, content, product marketing, engineering, PR, customer success, social media, and community teams should work together to strengthen the company’s topical authority and brand visibility.
+
+For B2B SaaS businesses, the most effective strategy is not simply producing more AI-generated articles. It is building a technically accessible, authoritative, well-structured, and evidence-based information ecosystem around the company’s product and customer problems.
+
+### Practical Playbook Takeaways
+
+* Extend the existing SEO workflow instead of creating an isolated AI-search department.
+* Identify which AI platforms are actually used by the target audience.
+* Track AI referral traffic and conversions in analytics.
+* Benchmark brand visibility and sentiment against competitors.
+* Audit robots.txt, CDN, firewall, hosting, and crawler access.
+* Make important content available in crawlable HTML.
+* Build topic hubs around products and customer needs.
+* Cover the complete SaaS customer journey.
+* Write focused and self-contained content sections.
+* Begin important sections with direct answers.
+* Include credible authors, sources, evidence, and original insights.
+* Use structured data when it genuinely clarifies the content.
+* Coordinate content efforts with PR, social media, community, and product teams.
+* Monitor citations and mentions, not only backlinks.
+* Keep the company website as the authoritative source of the brand narrative.
+* Evaluate tactics according to impact, effort, and expected ROI.
+* Avoid tactics that add complexity without improving the user experience.
+
 
 ## Transcript
 
