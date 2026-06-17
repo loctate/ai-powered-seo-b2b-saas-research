@@ -12,9 +12,124 @@
 
 ## Research Notes
 
-- **Summary:** To be added after reviewing the transcript.
-- **Key insights:** To be added after reviewing the transcript.
-- **Relevance to B2B SaaS:** To be added after reviewing the transcript.
+### Summary
+
+Ryan Law explains the AI-assisted content production workflow used to create publishable articles for the Ahrefs blog. Instead of asking an AI model to generate a complete article from a simple prompt, the workflow converts Ahrefs' existing human editorial process into a series of documented instructions.
+
+These instructions cover content briefing, outlining, drafting, structural editing, product integration, internal linking, metadata, and WordPress formatting. The documents are uploaded into a ChatGPT Project and referenced throughout the production process.
+
+The process begins with a manually prepared content brief containing the target keyword, working title, required ideas, relevant product use cases, and topical information collected from competing search results. AI then produces an outline, which is reviewed and corrected by a human editor before drafting begins.
+
+Human involvement remains essential throughout the workflow. The editor provides direction, evaluates whether the information is accurate and useful, adds genuine first-person experience, corrects weak sections, and reviews the entire article before publication.
+
+The discussion also identifies important limitations. AI may skip steps, move ahead without approval, invent experiences, generate incorrect internal links, or produce content that does not add anything new to the existing search results. For this reason, the workflow treats AI as an editorial assistant rather than an autonomous publishing system.
+
+### Workflow Stages
+
+1. **Select an appropriate topic**
+
+   * Use AI for topics the editor understands and can evaluate.
+   * Avoid publishing AI-generated material about subjects where the team lacks expertise.
+
+2. **Create the content brief**
+
+   * Define the target keyword.
+   * Set a clear working title.
+   * List the required ideas, examples, and conclusions.
+   * Include topical coverage from relevant search results.
+   * Identify useful product features or use cases.
+
+3. **Generate and review the outline**
+
+   * Ensure that the sections logically support the article's main thesis.
+   * Apply the MECE principle so ideas are mutually exclusive and collectively exhaustive.
+   * Put the most important information first.
+   * Give more space to valuable ideas than to generic background information.
+
+4. **Generate the first draft**
+
+   * Follow the approved outline.
+   * Include specific examples, evidence, opinions, and detailed explanations.
+   * Use the company's editorial standards and writing guidelines as context.
+
+5. **Perform human editorial review**
+
+   * Read the complete article from beginning to end.
+   * Correct factual errors and unclear explanations.
+   * Replace fabricated experiences with genuine human knowledge.
+   * Add original examples and first-person insights where appropriate.
+
+6. **Integrate products naturally**
+
+   * Mention the SaaS product only when it genuinely supports the reader's task.
+   * Connect product features to practical use cases.
+   * Avoid promotional language that does not add value.
+
+7. **Review internal links**
+
+   * Check every suggested link manually.
+   * Do not trust AI-generated URLs without verification.
+   * Consider using a verified list of existing pages as an allowed source.
+
+8. **Complete publishing tasks**
+
+   * Generate the meta description and URL slug.
+   * Add internal formatting and WordPress shortcodes.
+   * Add screenshots, real examples, and other visual evidence manually.
+
+### Key Insights
+
+1. **Strong AI content begins with a strong human process.**
+   AI performs better when an organization already has documented editorial standards, content templates, and review procedures.
+
+2. **Frontloading direction is more effective than repairing a weak draft.**
+   A detailed brief and approved outline reduce the need to rewrite a poor AI-generated article after it has already been produced.
+
+3. **AI should work in controlled stages.**
+   The model should complete one stage, receive human approval, and only then proceed to the next stage.
+
+4. **Human expertise determines whether the output is trustworthy.**
+   Editors should only use this workflow for subjects they understand well enough to evaluate.
+
+5. **First-person experience must be genuine.**
+   AI may suggest places where personal experience would strengthen the article, but it must not invent experiences and present them as real.
+
+6. **Human review is required before publication.**
+   AI can hallucinate facts, links, experiences, and product information. Every article must be reviewed from beginning to end.
+
+7. **Product-led content should remain useful.**
+   SaaS products should be included naturally as part of the solution rather than inserted only for promotion.
+
+8. **Internal links require a verified data source.**
+   AI-generated URLs may be incorrect. A controlled list of published URLs, APIs, or site-audit tools can reduce this risk.
+
+9. **Editorial SOPs can become reusable AI context.**
+   Existing documentation for writers can be converted into structured instructions that improve consistency across AI-assisted content.
+
+10. **Information gain remains important.**
+    AI should not simply reproduce ideas already available in competing articles. The final content should include original experience, proprietary data, expert contributions, product knowledge, or new analysis.
+
+### Relevance to B2B SaaS
+
+This source provides a practical model for building an AI-powered content production system inside a B2B SaaS company.
+
+A SaaS team could convert its existing content standards, product documentation, brand guidelines, editorial checklists, and SEO procedures into reusable AI project files. This would help the AI produce content that is more consistent with the company's brand and business goals.
+
+The workflow is also highly relevant to product-led SEO. The content brief can identify relevant product features, APIs, integrations, reports, or customer use cases before drafting begins. This allows the product to appear naturally within an educational article rather than being added as a promotional message after the article is completed.
+
+For B2B SaaS companies, the recommended model is therefore not fully automated publishing. It is a human-led production system in which AI accelerates research, outlining, drafting, editing, metadata creation, and formatting while experienced marketers remain responsible for accuracy, originality, product relevance, and final approval.
+
+### Practical Playbook Takeaways
+
+* Document the existing human editorial process before automating it.
+* Create reusable templates for briefs, outlines, drafts, editing, and product integration.
+* Require human approval between major workflow stages.
+* Use AI only for subjects the team can evaluate confidently.
+* Maintain a verified database of products, claims, examples, and internal URLs.
+* Add real customer evidence, proprietary data, and subject-matter expertise.
+* Measure quality and business outcomes, not only production speed.
+* Never publish AI output without complete human review.
+
 
 ## Transcript
 
