@@ -71,36 +71,203 @@ This repository is intended for research and educational purposes.
 * [x] Research structure created
 * [x] Ten practitioners selected and documented
 * [x] YouTube transcript collection script completed
-* [x] Three YouTube transcripts collected and analyzed
+* [x] Three public YouTube transcripts collected
+* [x] Human-written research notes added to all collected transcripts
 * [x] Nine LinkedIn posts from three practitioners documented
-* [x] Seven additional articles, newsletters, and podcast sources documented
-* [ ] Research materials for the remaining four practitioners collected
-* [ ] Repository links and metadata audited
-* [ ] Final research documentation completed
+* [x] Additional articles, newsletters, podcasts, and webinars documented
+* [x] Research materials collected from all ten practitioners
+* [x] Repository documentation updated
+* [ ] Final link and metadata audit completed
 
-## Current Research Progress
+## Research Inventory
 
-The repository currently includes structured research from six of the ten selected practitioners:
+This repository currently contains:
 
-* Kevin Indig
-* Ryan Law
-* Aleyda Solis
-* Ross Simmonds
-* Ross Hudgens
-* Eli Schwartz
+* **10 selected practitioners**
+* **3 public YouTube transcripts** with structured human-written analysis
+* **9 LinkedIn post summaries** from three practitioners
+* **19 additional articles, newsletters, podcasts, webinars, and research materials**
+* **1 reusable Python transcript collection script**
+* Source URLs, publication dates, annotations, and B2B SaaS relevance notes
 
-The collected materials currently include:
+## Selected Practitioners
 
-* Three publicly available YouTube transcripts with human-written research notes
-* Nine LinkedIn post summaries and annotations
-* Seven additional articles, newsletters, and podcast sources
-* A reusable Python script for collecting public YouTube transcripts
+The research combines complementary perspectives from:
 
-The next phase will add research materials from Bernard Huang, Mike King, Alex Birkett, and Jimmy Daly before the final repository audit and documentation update.
+1. **Kevin Indig** — Organic growth, SaaS SEO, and AI-search strategy
+2. **Bernard Huang** — Content optimization, AEO, GEO, and content intelligence
+3. **Ryan Law** — AI-assisted content production and SaaS content operations
+4. **Aleyda Solis** — Technical SEO, AI-search optimization, and measurement
+5. **Mike King** — Information retrieval, Relevance Engineering, and technical AI search
+6. **Ross Simmonds** — B2B content distribution, GEO, and multi-channel visibility
+7. **Ross Hudgens** — SEO, digital PR, AI-search measurement, and brand visibility
+8. **Eli Schwartz** — Product-led SEO, AEO, organizational ownership, and business outcomes
+9. **Alex Birkett** — B2B organic growth, experimentation, attribution, and revenue alignment
+10. **Jimmy Daly** — Editorial operations, AI-assisted writing, and human quality control
 
+## Why These Practitioners Were Selected
 
-## Current Research Progress
+The practitioners were selected because they represent different parts of a real AI-powered B2B SaaS content system.
 
-The first collected transcript features Kevin Indig discussing how AI-powered search is changing traditional SEO models, measurement, user intent, entity recognition, and cross-channel content strategy.
+The group includes specialists in:
 
-Additional materials will be collected and analyzed during the next research phases.
+* Content research and strategy
+* AI-assisted production
+* Editorial workflows
+* Technical SEO and information retrieval
+* Generative and answer-engine optimization
+* Content distribution
+* Digital PR and third-party authority
+* Measurement and attribution
+* Product-led growth
+* Brand positioning
+* Human review and quality control
+
+This combination provides a stronger foundation for a practical playbook than relying on practitioners who all represent the same discipline or viewpoint.
+
+## Major Research Themes
+
+### 1. AI Should Support Human Expertise
+
+AI can accelerate research, outlining, drafting, editing, repurposing, metadata preparation, and workflow execution.
+
+However, humans remain responsible for:
+
+* Strategy
+* Customer understanding
+* Product accuracy
+* Original insights
+* Evidence
+* Positioning
+* Editorial judgment
+* Final approval
+
+### 2. Strong Processes Come Before Automation
+
+The most reliable AI content systems begin with documented human processes.
+
+Editorial standards, content briefs, product information, approved claims, internal-link databases, and review procedures should be defined before they are converted into automated workflows.
+
+### 3. AI Search Expands Traditional SEO
+
+Traditional SEO remains important, but visibility now extends across:
+
+* Google Search
+* AI Overviews and AI Mode
+* ChatGPT
+* Gemini
+* Perplexity
+* YouTube
+* LinkedIn
+* Reddit
+* Review platforms
+* Industry publications
+* Communities
+
+### 4. Content Must Be Easy to Retrieve and Understand
+
+AI-search systems may retrieve individual passages rather than complete pages.
+
+Useful content should therefore include:
+
+* Clear headings
+* Focused sections
+* Direct answers
+* Accurate product facts
+* Definitions
+* Dates
+* Evidence
+* Entity relationships
+* Credible authorship
+* Self-contained explanations
+
+### 5. Brand and Third-Party Authority Matter
+
+A company’s website is important, but AI-generated recommendations may also be influenced by:
+
+* Customer reviews
+* Community discussions
+* Expert commentary
+* Industry publications
+* Digital PR
+* Comparison pages
+* Partner websites
+* Product directories
+* Social content
+
+### 6. Content Distribution Is Part of Search Visibility
+
+Publishing an article is no longer the final step.
+
+Strong ideas should be repurposed and distributed through professional networks, video, newsletters, podcasts, communities, webinars, and other trusted discovery channels.
+
+### 7. Measurement Must Go Beyond Rankings and Traffic
+
+Potential AI-search indicators include:
+
+* Brand mentions
+* Citations
+* AI referral traffic
+* Recommendation visibility
+* Competitive share of visibility
+* Brand sentiment
+* Branded search
+* Assisted conversions
+* Demo requests
+* Pipeline influence
+* Revenue contribution
+
+No single visibility score should be treated as complete proof of business impact.
+
+## Technical Implementation
+
+The included Python script:
+
+* Accepts a YouTube URL or video ID
+* Retrieves publicly available transcript data
+* Extracts transcript metadata
+* Groups subtitle segments into readable sections
+* Generates structured Markdown output
+* Creates placeholders for human analysis
+
+The script was tested locally because cloud-hosted IP addresses may be restricted by YouTube.
+
+## Research Limitations
+
+* LinkedIn materials were collected manually from publicly accessible posts.
+* Only publicly available transcripts were collected.
+* Some websites may restrict automated access or return different responses to cloud-based requests.
+* AI-search platforms and their retrieval systems change frequently.
+* Visibility, citations, and referrals do not always prove direct revenue attribution.
+* The repository represents a research snapshot rather than a permanent description of the market.
+
+## Future Playbook Direction
+
+The research can support a future B2B SaaS playbook with the following stages:
+
+1. Customer and topic research
+2. Content prioritization
+3. Human-created content briefs
+4. AI-assisted outlining and drafting
+5. Product and expert integration
+6. Human editorial review
+7. Technical and passage-level optimization
+8. Multi-channel distribution
+9. AI-search and traditional SEO measurement
+10. Continuous updating and experimentation
+
+## Project Outcome
+
+The project demonstrates:
+
+* Practitioner research and source validation
+* Structured GitHub documentation
+* Manual and API-assisted content collection
+* Python automation
+* Transcript processing
+* Human-written analysis
+* Incremental Git commits
+* Ethical use of public research materials
+
+The resulting repository is designed to serve as a high-signal research foundation for building a practical AI-powered SEO content production playbook for B2B SaaS companies.
+
